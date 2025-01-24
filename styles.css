@@ -1,0 +1,22 @@
+.menu__list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.menu__item {
+    margin-right: 20px;
+}
+
+.menu__link {
+    text-decoration: none;
+    color: #000;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.menu__link:hover,
+.menu__link.active {
+    background-color: #7fbee6; /* Change color on hover */
+}
