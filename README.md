@@ -1,2 +1,3 @@
 # Attention2Detail
-Welcome!
+
+[About Us](about.html)
