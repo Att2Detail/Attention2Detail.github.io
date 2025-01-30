@@ -1,1 +1,1 @@
-# Attention2Detail.github.io
+# Attention2Detail
