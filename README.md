@@ -6,3 +6,5 @@
 
 [Gallery](gallery.html)
 
+[Contact Us](contact.html)
+
