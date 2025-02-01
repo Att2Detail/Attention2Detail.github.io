@@ -3,3 +3,6 @@
 [About Us](about.html)
 
 [Services](services.html)
+
+[Gallery](gallery.html)
+
