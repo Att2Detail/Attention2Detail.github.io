@@ -1,6 +1,6 @@
 # Attention2Detail
 
-![Car Logo](/Attention2Detail/assets/Attention2DetailTemplogo.png)
+![Car Logo](/Attention2Detail/docs/assets/Attention2DetailTemplogo.png)
 
 [About Us](about.html)
 
