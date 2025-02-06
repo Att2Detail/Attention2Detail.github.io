@@ -1,6 +1,6 @@
 # Attention2Detail
 
-![Car Logo](/Attention2Detail.github.io/docs/assets/Attention2DetailTempLogo.png)
+![Car Logo](/Attention2Detail/docs/assets/Attention2DetailTempLogo.png)
 
 [About Us](about.html)
 
